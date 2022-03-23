@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Sintexer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sintexer)](https://github.com/sintexer)
+
+
+[![Sintexer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sintexer)](https://github.com/sintexer)
+
+🔭 I’m currently working on:
+
+
+[![Thinker](https://github-readme-stats.vercel.app/api/pin/?username=mibe-iot&repo=thinker)](https://github.com/mibe-iot/thinker)
