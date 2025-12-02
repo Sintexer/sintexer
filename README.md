@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning Godot
+- 💥 [Itchi.io profile](https://ilboogl.itch.io)
+- ✨ Last published game: [Planet Pong at itchi.io](https://ilboogl.itch.io/planet-pong), src: [github](https://github.com/Sintexer/gd-planet-pong)
 
+<!--
 [![Sintexer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sintexer)](https://github.com/sintexer)
+-->
